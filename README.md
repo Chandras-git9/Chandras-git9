@@ -56,4 +56,4 @@
 
 
 ## this is for snake: 
-![snake gif](https://github.com/Chandras-git9/Chandras-git9/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Chandras-git9/Chandras-git9/blob/output/github-contribution-grid-snake.gif)
