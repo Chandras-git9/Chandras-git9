@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=CHANDRA-9&color=green)" alt="https://github.com/CHANDRA-9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/CHANDRA-9&theme=" alt="https://github.com/CHANDRA-9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/CHANDRA-9&theme=" alt="https://github.com/Chandras-git9" /></a> </p>
 
 - 🔭 I’m currently working on **Smart Saving Buddy**
 - 👯 I’m looking to collaborate on **Related to Software Development**
