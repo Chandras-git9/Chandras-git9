@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandra</h1>
-<h3 align="center">SDE, Striver, M-B-C</h3>
+<h3 align="center">SDE, Striving, M-B-C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandras-git9&label=Profile%20views&color=0e75b6&style=flat" alt="chandras-git9" /> </p>
 
