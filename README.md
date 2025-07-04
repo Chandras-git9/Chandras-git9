@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Saving Buddy**
 
-- 🌱 I’m currently learning **Java,DSA, LEET Code(Gaurdian), Web3, Android development**
+- 🌱 I’m currently learning **Java,DSA, LEET Code(Guardian), Web3, Android development**
 
 - 👯 I’m looking to collaborate on **Related to Software Development**
 
