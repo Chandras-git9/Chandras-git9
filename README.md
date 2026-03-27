@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chandrasekharkhatua234@gmail.com**
 
-//- ⚡ Fun fact **N.R. Narayana Murthy, the co-founder of Infosys, is known for his serious business acumen, but did you know he once made headlines for his surprising culinary skills? During a charity event, he demonstrated his talent for making dosas (a popular South Indian dish) with such precision that he could give any professional chef a run for their money. Who knew the tech mogul had such a tasty side hustle!**//
+⚡ Fun fact **N.R. Narayana Murthy, the co-founder of Infosys, is known for his serious business acumen, but did you know he once made headlines for his surprising culinary skills? During a charity event, he demonstrated his talent for making dosas (a popular South Indian dish) with such precision that he could give any professional chef a run for their money. Who knew the tech mogul had such a tasty side hustle!**//
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
