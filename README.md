@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chandra</h1>
-<h3 align="center">SDE, Striving, M-B-C</h3>
+<h3 align="center">Desktop Engineer, Striving, M-B-C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandras-git9&label=Profile%20views&color=0e75b6&style=flat" alt="chandras-git9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandras-git9" alt="chandras-git9" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Saving Buddy**
+- 🔭 I’m currently working as a **Deswktop Engineer**
 
-- 🌱 I’m currently learning **Java,DSA, 200+CodeChef solved , now on leetcode trying, Web3, Android development**
+- 🌱 I’m currently learning **Devops, Automation tools, Shell Scripting & Linux, Jamf Pro, Desktop Configuration,Java,, 200+CodeChef solved**
 
-- 👯 I’m looking to collaborate on **Related to Software Development**
+- 👯 I’m looking to collaborate on **Related to Devops Projects and Desktop Engineering & JAMF PRO**
 
 - 👨‍💻 All of my projects are available at [will update](will update)
 
